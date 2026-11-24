@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+# Rebuild from source documents and scripts
+data/raw/*.pdf
+data/processed/*.jsonl
+data/processed/tables/*.csv
+data/chroma/
+.env
+.streamlit/secrets.toml

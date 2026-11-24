@@ -1,0 +1,10 @@
+PyMuPDF>=1.25,<1.27
+pdfplumber>=0.11,<0.13
+camelot-py>=1.0,<2.3
+pandas>=2.2,<3
+chromadb>=1.0,<1.5
+sentence-transformers>=3.0,<6
+pytest>=8,<10
+python-dotenv>=1.0,<2
+groq>=0.20,<2
+streamlit>=1.40,<2

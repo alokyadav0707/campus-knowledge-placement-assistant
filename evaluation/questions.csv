@@ -1,0 +1,51 @@
+question_id,question,filename,gold_pages,expected_answer,evidence_location
+Q01,How many students registered for placements in 2023-24?,iitb_placement_2023_24.pdf,3,2414,Table 1
+Q02,How many students actively participated in the placement process?,iitb_placement_2023_24.pdf,3,1979,Table 1
+Q03,How many job offers were accepted in 2023-24?,iitb_placement_2023_24.pdf,3,1475,Table 1
+Q04,How many companies offered jobs in the placement drive?,iitb_placement_2023_24.pdf,3,364,Table 1
+Q05,What was the total number of job offers?,iitb_placement_2023_24.pdf,3,1650,Table 1
+Q06,How many accepted offers were above one crore rupees?,iitb_placement_2023_24.pdf,3,22,Table 1
+Q07,What was the average annual CTC in 2023-24?,iitb_placement_2023_24.pdf,3,23.50 LPA,Table 1
+Q08,What was the median salary in 2023-24?,iitb_placement_2023_24.pdf,3,17.92 LPA,Table 1
+Q09,Which sector was the top recruiting sector?,iitb_placement_2023_24.pdf,3,Engineering and Technology,Table 1
+Q10,How many companies registered for IIT Bombay placements?,iitb_placement_2023_24.pdf,3,543,Introduction
+Q11,How many placements were in MNCs located in India?,iitb_placement_2023_24.pdf,5,775,Table 2
+Q12,How many placements were in Indian companies?,iitb_placement_2023_24.pdf,5,622,Table 2
+Q13,How many B.Tech students were placed in 2023-24?,iitb_placement_2023_24.pdf,6,683,Table 3
+Q14,What was the B.Tech placement percentage?,iitb_placement_2023_24.pdf,6,83.39%,Table 3
+Q15,How many M.Tech students were placed?,iitb_placement_2023_24.pdf,6,415,Table 3
+Q16,How many dual degree B.Tech plus M.Tech students were placed?,iitb_placement_2023_24.pdf,6,152,Table 3
+Q17,What percentage of two-year MSc participants were placed?,iitb_placement_2023_24.pdf,6,55.06%,Table 3
+Q18,How many PhD students were placed according to program-wise placement table?,iitb_placement_2023_24.pdf,6,32,Table 3
+Q19,How many companies recruited in academic year 2022-23?,iitb_placement_2023_24.pdf,7,324,Table 4
+Q20,How many companies recruited in academic year 2021-22?,iitb_placement_2023_24.pdf,7,332,Table 4
+Q21,How many Computer Science Engineering students were placed?,iitb_placement_2023_24.pdf,8,230,Table 5
+Q22,How many Electrical Engineering students were placed?,iitb_placement_2023_24.pdf,8,232,Table 5
+Q23,How many Mechanical Engineering students were placed?,iitb_placement_2023_24.pdf,8,229,Table 5
+Q24,How many Chemical Engineering students were placed?,iitb_placement_2023_24.pdf,8,119,Table 5
+Q25,How many Civil Engineering students were placed?,iitb_placement_2023_24.pdf,8,113,Table 5
+Q26,How many students were selected in Engineering and Technology sector?,iitb_placement_2023_24.pdf,9,430,Table 6
+Q27,How many companies recruited in the Engineering and Technology sector?,iitb_placement_2023_24.pdf,9,106,Table 6
+Q28,How many selections were made in the IT or Software sector?,iitb_placement_2023_24.pdf,9,307,Table 6
+Q29,How many consulting sector selections occurred?,iitb_placement_2023_24.pdf,9,117,Table 6
+Q30,How many financial sector selections occurred?,iitb_placement_2023_24.pdf,9,113,Table 6
+Q31,How many Research and Development sector selections occurred?,iitb_placement_2023_24.pdf,9,97,Table 6
+Q32,How many Data Analytics sector selections occurred?,iitb_placement_2023_24.pdf,9,78,Table 6
+Q33,How many AI or ML sector selections occurred?,iitb_placement_2023_24.pdf,9,15,Table 6
+Q34,How many offers had salaries above 20 LPA?,iitb_placement_2023_24.pdf,10,558,Table 7
+Q35,How many salary offers fell between 16.75 and 20 LPA?,iitb_placement_2023_24.pdf,10,230,Table 7
+Q36,How many salary offers fell between 10 and 12 LPA?,iitb_placement_2023_24.pdf,10,161,Table 7
+Q37,How many pre-placement offers were received in 2024?,iitb_placement_2023_24.pdf,11,300,Table 8
+Q38,How many PPOs were accepted in 2023-24?,iitb_placement_2023_24.pdf,11,258,Table 8
+Q39,How many total internship offers were made?,iitb_placement_2023_24.pdf,11,1267,Table 8
+Q40,How many internship offers were made by companies?,iitb_placement_2023_24.pdf,11,1177,Table 8
+Q41,How many internship offers were made by universities?,iitb_placement_2023_24.pdf,11,90,Table 8
+Q42,What was the average PhD CTC from allocated offers?,iitb_placement_2023_24.pdf,11,18.46 LPA,PhD Placement Details
+Q43,How many PhD students were placed in 2022-23?,iitb_placement_2023_24.pdf,11,41,Table 9
+Q44,What was the median salary in 2022-23?,iitb_placement_2023_24.pdf,11,16.66 LPA,Table 10
+Q45,How many B.Tech students were placed in 2020-21?,iitb_placement_2023_24.pdf,12,468,Table 11
+Q46,How many Finance sector offers went to B.Tech students?,iitb_placement_2023_24.pdf,13,80,Table 12
+Q47,How many Computer Science students received internship selections in 2023-24?,iitb_placement_2023_24.pdf,15,242,Table 13
+Q48,How many Mechanical Engineering students received internship selections in 2023-24?,iitb_placement_2023_24.pdf,15,217,Table 13
+Q49,How many summer internship offers were made?,iitb_placement_2023_24.pdf,16,1178,Table 14
+Q50,How many winter internship offers were made?,iitb_placement_2023_24.pdf,16,89,Table 14
